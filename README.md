@@ -1,4 +1,4 @@
-This is a game of rock paper scissors
+###**This is a game of rock paper scissors**
 Rock beats Scissors
 Paper beats Rock
 Scissors beats Paper
